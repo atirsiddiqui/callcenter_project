@@ -1,6 +1,6 @@
 ## 🎓 Project Overview
 
-This project has been developed as part of the **Master in Artificial Intelligence and Applied Data Science** program at **GEM: Grenoble Alpine Business School**, within the **Python** course.  
+This project has been developed as part of the **Master in Artificial Intelligence and Applied Data Science** program at **GEM: Grenoble Alpine Business School (MAIDS)**, within the **Python** course.  
 It utilizes **real-world data collected from a test call center**, applying Python-based techniques to transform operational data into actionable insights.  
 
 The purpose of this work is to demonstrate how academic learning can be directly applied to industry challenges—optimizing workflows, enhancing decision-making, and showcasing the power of data-driven innovation.  
