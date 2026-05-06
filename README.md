@@ -1,10 +1,10 @@
 ## 🎓 Project Overview
 
-This project has been developed as part of the **Master in Artificial Intelligence and Applied Data Science** program, specifically for the **Python** course.  
-It leverages **real-world data collected from a test call center**, transforming raw operational insights into meaningful analytical outcomes.  
-The aim is not only to demonstrate technical proficiency in Python programming but also to showcase how data-driven solutions can enhance decision-making, optimize workflows, and inspire innovation in modern enterprises.  
-By bridging academic rigor with practical application, this repository reflects the spirit of applied data science: turning challenges into opportunities through intelligent computation.
-==========================================================================================================================
+This project has been developed as part of the **Master in Artificial Intelligence and Applied Data Science** program at **GEM: Grenoble Alpine Business School**, within the **Python** course.  
+It utilizes **real-world data collected from a test call center**, applying Python-based techniques to transform operational data into actionable insights.  
+
+The purpose of this work is to demonstrate how academic learning can be directly applied to industry challenges—optimizing workflows, enhancing decision-making, and showcasing the power of data-driven innovation.  
+By bridging rigorous academic foundations with practical application, this repository embodies the mission of applied data science: turning complex problems into opportunities through intelligent computation.
 
 # 📊 Telecom Call Center Performance Analysis
 
